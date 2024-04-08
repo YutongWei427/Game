@@ -1,8 +1,8 @@
 {
 "description": "serverless wordpress",
 	"scripts": {
-		"build": "diy-pwa build TechTEST",
-		"preview": "diy-pwa preview TechTEST"
+		"build": "diy-pwa build Game",
+		"preview": "diy-pwa preview Game"
 	},
 	"devDependencies": {
 		"diy-pwa": "latest"
